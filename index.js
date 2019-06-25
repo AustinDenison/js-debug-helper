@@ -1,5 +1,5 @@
 function outer() {
-  //   debugger;
+    debugger;
   let num = 2;
   let string = 'hello';
   function inner() {
