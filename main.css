@@ -1,0 +1,13 @@
+.main-button {
+    color: white;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: blue;
+    border: .5px solid black;
+    outline: none;
+}
+
+.main-button:hover {
+    cursor: pointer;
+}
